@@ -1,1 +1,1 @@
-{"title":"کاربر گرامی ","message":"در حال بروز رسانی داخلی هستیم تا کمی دیگر مشکل حل میشه لطفا از ما حمایت کنید ❤️","dismissable":false,"dismissTxt":"رد","okTxt":"حمایت میکنم","okUrl":"tg://resolve?domain=Vpn_Click","status":"ok"}
+.
